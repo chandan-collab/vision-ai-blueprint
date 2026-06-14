@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: Vision AI Blueprint
+message: "If you use this research, please cite it using the metadata below."
+type: software
+authors:
+
+* family-names: Chandan
+  given-names: Chandan
+  repository-code: https://github.com/chandan-collab/vision-ai-blueprint
+  license: CC-BY-4.0
+  abstract: >
+  A comprehensive research and implementation blueprint for Vision AI,
+  covering computer vision concepts, OCR, object detection, model training,
+  deployment strategies, and production considerations.
+  keywords:
+* vision-ai
+* computer-vision
+* deep-learning
+* object-detection
+* ocr
+* machine-learning
+  url: https://github.com/chandan-collab/vision-ai-blueprint
