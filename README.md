@@ -884,7 +884,7 @@ Dataset quality improvements typically provide significantly larger gains than s
 
 
 
-
+Copyright (c) 2026 Chandan
 
 ## License & Attribution
 
@@ -906,7 +906,7 @@ Requirements:
 
 When using content, ideas, architectures, diagrams, workflows, or research from this repository, please include:
 
-Research by Chandan
+Research by Chandan (chandan-collab)
 
 Source Repository:
 https://github.com/chandan-collab/vision-ai-blueprint
