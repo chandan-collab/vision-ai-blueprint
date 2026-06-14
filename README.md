@@ -881,3 +881,37 @@ For successful AI projects:
 ```
 
 Dataset quality improvements typically provide significantly larger gains than switching between model versions.
+
+
+
+
+
+## License & Attribution
+
+This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+
+You are free to:
+
+* Use this research in personal, academic, commercial, and production environments.
+* Copy, distribute, and modify the content.
+* Build products, services, architectures, or solutions based on this research.
+
+Requirements:
+
+* Credit the original author.
+* Provide a reference to the original repository.
+* Indicate if modifications were made.
+
+### Required Attribution
+
+When using content, ideas, architectures, diagrams, workflows, or research from this repository, please include:
+
+Research by Chandan
+
+Source Repository:
+https://github.com/chandan-collab/vision-ai-blueprint
+
+Example:
+
+"This work is based on the Vision AI Blueprint research by Chandan.
+Source: https://github.com/chandan-collab/vision-ai-blueprint"
